@@ -1,0 +1,5 @@
+troll
+=============================
+
+.. automodule:: troll
+    :members:
